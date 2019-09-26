@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="jars">
+    <library name="jars1">
       <CLASSES>
         <root url="file://$USER_HOME$/spark-2.4.4-bin-hadoop2.7/jars" />
       </CLASSES>
